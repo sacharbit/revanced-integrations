@@ -14,4 +14,4 @@
 /.idea
 /.vscode
 /*.log
-gradle.properties
+/gradle.properties
